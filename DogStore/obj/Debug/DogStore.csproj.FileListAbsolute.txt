@@ -1,0 +1,13 @@
+C:\Development\BMJDEV\DogStore\DogStore\bin\Debug\DogStore.exe.config
+C:\Development\BMJDEV\DogStore\DogStore\obj\Debug\DogStore.csprojResolveAssemblyReference.cache
+C:\Development\BMJDEV\DogStore\DogStore\obj\Debug\DogStore.Properties.Resources.resources
+C:\Development\BMJDEV\DogStore\DogStore\obj\Debug\DogStore.csproj.GenerateResource.Cache
+C:\Development\BMJDEV\DogStore\DogStore\bin\Debug\DogStore.exe
+C:\Development\BMJDEV\DogStore\DogStore\bin\Debug\DogStore.pdb
+C:\Development\BMJDEV\DogStore\DogStore\obj\Debug\DogStore.exe
+C:\Development\BMJDEV\DogStore\DogStore\obj\Debug\DogStore.pdb
+C:\Development\BMJDEV\DogStore\DogStore\obj\Debug\DogStore.DogStore.resources
+C:\Development\BMJDEV\DogStore\DogStore\bin\Debug\DogStoreDB.mdf
+C:\Development\BMJDEV\DogStore\DogStore\bin\Debug\DogStoreDB_log.ldf
+C:\Development\BMJDEV\DogStore\DogStore\bin\Debug\DogStore.Services.dll
+C:\Development\BMJDEV\DogStore\DogStore\bin\Debug\DogStore.Services.pdb

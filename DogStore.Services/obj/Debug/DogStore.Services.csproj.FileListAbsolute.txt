@@ -1,0 +1,5 @@
+C:\Development\BMJDEV\DogStore\DogStore.Services\bin\Debug\DogStore.Services.dll
+C:\Development\BMJDEV\DogStore\DogStore.Services\bin\Debug\DogStore.Services.pdb
+C:\Development\BMJDEV\DogStore\DogStore.Services\obj\Debug\DogStore.Services.csprojResolveAssemblyReference.cache
+C:\Development\BMJDEV\DogStore\DogStore.Services\obj\Debug\DogStore.Services.dll
+C:\Development\BMJDEV\DogStore\DogStore.Services\obj\Debug\DogStore.Services.pdb
