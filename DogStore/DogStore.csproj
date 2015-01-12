@@ -94,7 +94,6 @@
     </None>
     <None Include="DogStoreDBDataSet.xsd">
       <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>DogStoreDBDataSet.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </None>
     <None Include="DogStoreDBDataSet.xss">
