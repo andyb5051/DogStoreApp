@@ -81,7 +81,7 @@
             // 
             // imgLogo
             // 
-            this.imgLogo.Image = global::DogStore.Properties.Resources.bostonterrier300;
+            this.imgLogo.Image = global::DogStore.Resource.boston_terrier300;
             this.imgLogo.Location = new System.Drawing.Point(12, 12);
             this.imgLogo.Name = "imgLogo";
             this.imgLogo.Size = new System.Drawing.Size(100, 50);

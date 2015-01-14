@@ -11,3 +11,4 @@ C:\Development\BMJDEV\DogStore\DogStore\bin\Debug\DogStoreDB.mdf
 C:\Development\BMJDEV\DogStore\DogStore\bin\Debug\DogStoreDB_log.ldf
 C:\Development\BMJDEV\DogStore\DogStore\bin\Debug\DogStore.Services.dll
 C:\Development\BMJDEV\DogStore\DogStore\bin\Debug\DogStore.Services.pdb
+C:\Development\DogStoreApp\DogStore\bin\Debug\DogStore.exe.config
